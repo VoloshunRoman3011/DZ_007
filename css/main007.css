@@ -1,0 +1,387 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans.eot');
+    src: url('../fonts/OpenSans.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/OpenSans.woff2') format('woff2'),
+    url('../fonts/OpenSans.woff') format('woff'),
+    url('../fonts/OpenSans.ttf') format('truetype'),
+    url('../fonts/OpenSans.svg#OpenSans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Bold.eot');
+    src: url('../fonts/Raleway-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Raleway-Bold.woff2') format('woff2'),
+    url('../fonts/Raleway-Bold.woff') format('woff'),
+    url('../fonts/Raleway-Bold.ttf') format('truetype'),
+    url('../fonts/Raleway-Bold.svg#Raleway-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: inherit;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    max-width: 1095px;
+    margin: auto;
+}
+header{
+    background: #24282f;
+    padding: 30px 0;
+}
+header nav ul li{
+    display: inline-block;
+    font-size: 11px;
+    text-transform: uppercase;
+    margin-left: 30px;
+    font-family: 'Open Sans';
+}
+header nav ul li a{
+    padding: 34px 10px;
+    color: #fff;
+    font-size: 11px;
+    font-family: 'Open Sans';
+}
+header nav ul li a:hover {
+    border-bottom: 2px solid #b5a263;
+}
+/*header nav ul li a:after{*/
+/*    content: "";*/
+/*    display: block;*/
+/*    height: 2px;*/
+/*    width: 0;*/
+/*    background: #b5a263;*/
+/*    margin-top: 39px;*/
+/*    transition: 0.3s;*/
+/*}*/
+/*header nav ul li:hover a:after{*/
+/*    width: 100%;*/
+/*}*/
+header nav{
+    float: right;
+}
+.clearfix{
+    clear: both;
+}
+.section{
+    color: #fff;
+    padding: 74px 0;
+    background-image: url("../img/test_light_02.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(43, 46, 53, 0.8);
+}
+.section h1{
+    text-transform: uppercase;
+    font-size: 31px;
+    font-family: 'Raleway';
+}
+.section p{
+    font-size: 11px;
+    line-height: 1.5;
+}
+section{
+    padding: 85px 0 15px;
+}
+section h2{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+section h2:after{
+    content: "";
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: #b5a263;
+    margin: 22px auto 26px;
+}
+article{
+    max-width: 890px;
+    margin: auto;
+}
+article:after{
+    content: "";
+    display: block;
+    width: 100%;
+    clear: both;
+}
+article div img:last-of-type{
+    margin-bottom: 20px;
+    width: 100%;
+}
+article a{
+    float: right;
+    margin-right: 7px;
+}
+.Cox{
+    float: left;
+    margin-left: 8px;
+}
+article h4{
+    font-size: 12px;
+    text-transform: uppercase;
+}
+article p{
+    font-size: 11px;
+    color: #b5a263;
+    line-height: 1.7;
+}
+.person{
+    float: left;
+    margin-right: 52px;
+    max-width: 262px;
+}
+.person:last-of-type{
+    margin-right: 0;
+}
+section .center a{
+    color: #8a8c90;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border: 2px solid #8a8c90;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block;
+}
+.center{
+    max-width: 890px;
+    margin: auto;
+    text-align: center;
+}
+.JS{
+    padding: 95px 0 40px;
+    background: #f7f7f7;
+}
+.owl-nav{
+    position: absolute;
+}
+.owl-nav .owl-prev:before, .owl-nav .owl-next:before{
+    color: #75787c;
+    display: block;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    position: absolute;
+    bottom: 200px;
+}
+.owl-nav .owl-prev:before{
+    content: "\f053";
+    left: 100px;
+}
+.owl-nav .owl-next:before{
+    content: "\f054";
+    left: 995px;
+}
+.owl-dots{
+    margin: 25px auto;
+    width: 93px;
+}
+.owl-dots .owl-dot{
+    width: 15px;
+    height: 15px;
+    margin: 8px;
+    background-color: #75787c!important;
+    border-radius: 50%;
+}
+.owl-carousel button.active{
+    background-color: #ff0000!important;
+    outline: none;
+}
+.JS h2{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.JS h2:after{
+    content: "";
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: #24282f;
+    margin: 22px auto 60px;
+}
+.JS p:before{
+    content: "";
+    display: block;
+    width: 99px;
+    height: 99px;
+    background-image: url("../img/Layer-23.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: red;
+    border-radius: 50%;
+    margin:0 auto 20px;
+}
+.JS p{
+    margin: 0 auto 50px;
+    font-size: 11px;
+    max-width: 640px;
+    text-align: center;
+    line-height: 1.8;
+    font-weight: bold;
+    color: #4c4c4c;
+}
+.JS h4{
+    font-size: 12px;
+    color: #b5a263;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+.JS span{
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    display: block;
+    color: #4c4c4c;
+}
+
+footer{
+    background: #2b2f35;
+    padding: 60px 0 35px;
+    border-top: 2px solid #42464c;
+}
+footer h4{
+    font-size: 11px;
+    color: #9d8e5b;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+footer p{
+    font-size: 14px;
+    color: #6b6f76;
+    line-height: 1.5;
+}
+.padd{
+    margin-bottom: 10px;
+}
+input{
+    color: #fff;
+}
+footer form input{
+    width: 100%;
+    background: #2b2f35;
+    border: 2px solid #61656b;
+    font-size: 11px;
+    line-height: 3;
+    padding-left: 8px;
+}
+footer .px{
+    margin-bottom: 10px;
+}
+footer button{
+    width: 100%;
+    background: #b5a263;
+    color: #fff;
+    font-size: 11px;
+    cursor: pointer;
+    padding: 12px 0;
+    border: none;
+}
+.float_L{
+    max-width: 238px;
+    float: left;
+    margin-right: 142px;
+}
+.float_L:last-of-type{
+    margin-right: 0px;
+}
+.Fapor-by_Respotheme{
+    border-top: 2px solid #42464c;
+    padding: 20px;
+    background: #24282f;
+}
+.Fapor-by_Respotheme p{
+    color: #6b6f76;
+    vertical-align: middle;
+}
+.flt{
+    float: left;
+}
+.Fapor-by_Respotheme a{
+    display: inline-block;
+    width: 25px;
+    line-height: 25px;
+    border-radius: 50%;
+    border: 1px solid #6e7279;
+    text-align: center;
+    font-size: 14px;
+    color: #6e7279;
+}
+
+.Fapor-by_Respotheme a:hover{
+    background: #b5a263;
+    color: #fff;
+}
+
+
+/**************ACARDION***************/
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active{
+    background-color: #fce7f2;
+    color: #860da6;
+    border: none;
+    border-radius: 0;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+    background-color: #fef5fa;
+}
+.ui-accordion .ui-accordion-header{
+    padding: 15px 0 15px 17px;
+    font-size: 22px;
+    outline: none;
+}
+.ui-accordion .ui-accordion-header:before{
+        content: "";
+        display: inline-block;
+        width: 4px;
+        height: 4px;
+        border-radius: 50%;
+        background-color: #860da6;
+    position: relative;
+    top: -5px;
+    margin-right: 10px;
+}
+.ui-widget-content{
+    background-color: #fef5fa;
+    border-radius: 0;
+    border: none;
+}
+.ui-icon {
+    position: absolute;
+    right: 39px;
+    width: 27px;
+    height: 27px;
+    background-position: inherit;
+    background-image: none;
+    text-indent: 0;
+    font-family: 'Font Awesome 5 Free'!important;
+    font-weight: 900!important;
+    text-align: right;
+    top: 21px;
+    transition: .3s;
+}
+.ui-icon:before{
+    content: "\f054";
+}
+.ui-accordion .ui-accordion-header.ui-state-hover span{
+    background-image: none;
+}
+.ui-accordion .ui-accordion-header.ui-state-active .ui-icon{
+    transform: rotate(90deg);
+    transition: .3s;
+    right: 32px;
+}
