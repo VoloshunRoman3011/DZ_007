@@ -19,6 +19,30 @@
     font-weight: bold;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Now';
+    src: url('../fonts/Now-Medium.eot');
+    src: url('../fonts/Now-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Now-Medium.woff2') format('woff2'),
+    url('../fonts/Now-Medium.woff') format('woff'),
+    url('../fonts/Now-Medium.ttf') format('truetype'),
+    url('../fonts/Now-Medium.svg#Now-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Now';
+    src: url('../fonts/Now-Bold.eot');
+    src: url('../fonts/Now-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Now-Bold.woff2') format('woff2'),
+    url('../fonts/Now-Bold.woff') format('woff'),
+    url('../fonts/Now-Bold.ttf') format('truetype'),
+    url('../fonts/Now-Bold.svg#Now-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
 
 
 *{
@@ -345,22 +369,22 @@ footer button{
     outline: none;
 }
 .ui-accordion .ui-accordion-header:before{
-        content: "";
-        display: inline-block;
-        width: 4px;
-        height: 4px;
-        border-radius: 50%;
-        background-color: #860da6;
+    content: "";
+    display: inline-block;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: #860da6;
     position: relative;
     top: -5px;
     margin-right: 10px;
 }
-.ui-widget-content{
+.ui-accordion .ui-widget-content{
     background-color: #fef5fa;
     border-radius: 0;
     border: none;
 }
-.ui-icon {
+.ui-accordion .ui-icon {
     position: absolute;
     right: 39px;
     width: 27px;
@@ -374,7 +398,7 @@ footer button{
     top: 21px;
     transition: .3s;
 }
-.ui-icon:before{
+.ui-accordion .ui-icon:before{
     content: "\f054";
 }
 .ui-accordion .ui-accordion-header.ui-state-hover span{
@@ -385,3 +409,101 @@ footer button{
     transition: .3s;
     right: 32px;
 }
+/**************ACARDION***************/
+
+/**************DIALOOG-JS***************/
+
+.ui-dialog{
+    max-width: 750px!important;
+    width: 100%!important;
+}
+.ui-dialog .ui-resizable-n, .ui-dialog .ui-resizable-e, .ui-dialog .ui-resizable-s, .ui-dialog .ui-resizable-w{
+    display: none!important;
+}
+.ui-widget.ui-widget-content{
+    border: none;
+}
+.ui-dialog{
+    padding: 0;
+}
+.ui-dialog .ui-dialog-title{
+    margin: 0;
+    font-size: 24px;
+    font-family: 'Now';
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+.ui-dialog .ui-dialog-titlebar{
+    padding: 35px 1em;
+    background-color: black;
+    border-radius: 0!important;
+    border: none!important;
+}
+.ui-dialog .ui-dialog-content{
+    padding: 40px 0 166px;
+    background-color: #fbfbfb;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.ui-widget input{
+    outline: none;
+    line-height: 60px;
+    min-width: 380px;
+    border: 1px solid #b7b7b7;
+    border-radius: 3px;
+    color: black;
+    margin-left: 51px;
+}
+.label{
+    font-size: 22px;
+    font-family: 'Now';
+    border-radius: 3px;
+    outline: none;
+    max-width: 140px;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    color: #363636;
+}
+.mw-750px{
+    max-width: 750px;
+    text-align: center;
+}
+.pad_g-86px{
+    padding: 0 86px;
+    margin-bottom: 40px;
+}
+.pad_g-112px{
+    padding: 0 112px;
+}
+.XZ{
+    width: 100%;
+    font-size: 24px!important;
+    font-family: 'Now'!important;
+    line-height: 60px;
+    border-radius: 3px;
+    outline: none;
+    text-align: center;
+    border: none;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.XZ i.fa-facebook-f{
+    margin-right: 15px;
+}
+.mg{
+    margin: 30px 0;
+    font-size: 22px;
+    font-family: 'Now';
+}
+.ui-widget-content a{
+    background-color: #5072bc;
+    color: white;
+}
+.b-c_bt{
+    background-color: #cbcbcb;
+    color: black;
+    cursor: pointer;
+}
+/**************DIALOOG-JS***************/
