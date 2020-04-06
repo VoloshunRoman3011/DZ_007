@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00222fc3-ee34-46b5-8ee6-e3cfd86f00ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="00222fc3-ee34-46b5-8ee6-e3cfd86f00ca" name="Default Changelist" comment="The End">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DZ 007.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DZ 007.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main007.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main007.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index007.html" beforeDir="false" afterPath="$PROJECT_DIR$/index007.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 11/.idea/DZ 11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/.idea/DZ 11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 11/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 11/css/main11.css" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/css/main11.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 11/index11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/index11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 12/css/.sass-cache/e981bb01479ac557b9c89c1a133ae06ab275bced/main_12.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/.sass-cache/e981bb01479ac557b9c89c1a133ae06ab275bced/main_12.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 12/css/main_12.css" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/main_12.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 12/css/main_12.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/main_12.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 12/css/main_12.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/main_12.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 12/index_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/index_12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DZ 12/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +31,20 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../DZ 12" />
   </component>
   <component name="ProjectId" id="1YhMmfOJfenJB5FOQeqeB2m95Q6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,17 +52,19 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DZ 12" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +76,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585748131927</updated>
-      <workItem from="1585748133295" duration="2194000" />
+      <workItem from="1585748133295" duration="2690000" />
+      <workItem from="1585822907289" duration="13630000" />
+      <workItem from="1585854886758" duration="6000" />
+      <workItem from="1586156927885" duration="968000" />
+      <workItem from="1586158791874" duration="11868000" />
+      <workItem from="1586170934492" duration="2999000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <created>1585748215970</created>
@@ -58,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585748215970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="The End">
+      <created>1585750472786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585750472786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,16 +105,49 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+    <MESSAGE value="The End" />
+    <option name="LAST_COMMIT_MESSAGE" value="The End" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1585748215276">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586159414737">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1585748215276" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1585748244751">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586159414737" />
+    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1586169999815">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1585748244751" />
+    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586169999815" />
+    <state x="147" y="66" key="DiffContextDialog" timestamp="1586159273647">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="147" y="66" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1586159273647" />
+    <state x="405" y="196" key="EditFileWatcherDialog" timestamp="1586157194191">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="405" y="196" key="EditFileWatcherDialog/0.0.1536.834@0.0.1536.834" timestamp="1586157194191" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1586158976929">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1586158976929" />
+    <state x="591" y="333" key="Github.CreateGistDialog" timestamp="1586159368220">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="591" y="333" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1586159368220" />
+    <state x="616" y="128" key="RollbackChangesDialog" timestamp="1586159283670">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="616" y="128" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1586159283670" />
+    <state x="277" y="60" key="SettingsEditor" timestamp="1586157015439">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586157015439" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1585750493554">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1585750493554" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586170935583">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586170935583" />
   </component>
 </project>
