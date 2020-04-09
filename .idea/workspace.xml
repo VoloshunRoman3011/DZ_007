@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00222fc3-ee34-46b5-8ee6-e3cfd86f00ca" name="Default Changelist" comment="The End">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DZ 007.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DZ 007.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="00222fc3-ee34-46b5-8ee6-e3cfd86f00ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DZ 12/css/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main007.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main007.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index007.html" beforeDir="false" afterPath="$PROJECT_DIR$/index007.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DZ 11/.idea/DZ 11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/.idea/DZ 11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DZ 11/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DZ 11/css/main11.css" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/css/main11.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DZ 11/index11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 11/index11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ 12/css/.sass-cache/e981bb01479ac557b9c89c1a133ae06ab275bced/main_12.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/.sass-cache/e981bb01479ac557b9c89c1a133ae06ab275bced/main_12.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ 12/css/main_12.css" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/main_12.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ 12/css/main_12.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/main_12.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ 12/css/main_12.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/css/main_12.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DZ 12/index_12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/index_12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DZ 12/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../DZ 12/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -81,7 +71,8 @@
       <workItem from="1585854886758" duration="6000" />
       <workItem from="1586156927885" duration="968000" />
       <workItem from="1586158791874" duration="11868000" />
-      <workItem from="1586170934492" duration="2999000" />
+      <workItem from="1586170934492" duration="16261000" />
+      <workItem from="1586419230048" duration="9817000" />
     </task>
     <task id="LOCAL-00001" summary="finish">
       <created>1585748215970</created>
@@ -97,26 +88,43 @@
       <option name="project" value="LOCAL" />
       <updated>1585750472786</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The End">
+      <created>1586174115601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586174115601</updated>
+    </task>
+    <task id="LOCAL-00004" summary="end">
+      <created>1586182501108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586182501108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="finish" />
     <MESSAGE value="The End" />
-    <option name="LAST_COMMIT_MESSAGE" value="The End" />
+    <MESSAGE value="end" />
+    <option name="LAST_COMMIT_MESSAGE" value="end" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586159414737">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586159414737" />
-    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1586169999815">
+    <state x="393" y="12" key="CommitChangelistDialog2" timestamp="1586182500210">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586169999815" />
+    <state x="393" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1586182500210" />
     <state x="147" y="66" key="DiffContextDialog" timestamp="1586159273647">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -141,13 +149,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586157015439" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1585750493554">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1586182506754">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1585750493554" />
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586170935583">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1586182506754" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586419241871">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586170935583" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586419241871" />
   </component>
 </project>
